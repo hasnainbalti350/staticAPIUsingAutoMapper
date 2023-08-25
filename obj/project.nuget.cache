@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vT9i++E7LhtDwGjEW9QsjE917/iFhjVfxiWV1z+8o6v6obcMAoc9IBhyc9FsUgPoegCg4tMgMXwUnWZLO3HCdg==",
+  "dgSpecHash": "RQ7oj0TEIA3ylNutnydU2M0A2qVV7xhCWWXcv1ZGEOFvke7l9u1dytc+h8ovCHd4nQJlysP3QiTZFOniG4f3bA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hasnain Azizi\\source\\repos\\AccountingLiveApi\\MapperStaticApi\\MapperStaticApi.csproj",
+  "projectFilePath": "C:\\Users\\Hasnain Azizi\\source\\repos\\MapperStaticApi\\MapperStaticApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hasnain Azizi\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Hasnain Azizi\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
